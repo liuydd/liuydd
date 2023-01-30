@@ -11,7 +11,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/liuydd/count.svg) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuydd&layout=compact&theme=light)  
 ![liuydd's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuydd&show_icons=true&theme=light)  
-![](https://activity-graph.herokuapp.com/graph?username=liuydd&theme=github)
 
 <!--
 **liuydd/liuydd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,4 +27,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![](https://stats.justsong.cn/api/bilibili/?id=500346891&theme=light)  
+![](https://activity-graph.herokuapp.com/graph?username=liuydd&theme=github)
 -->
