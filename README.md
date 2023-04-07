@@ -2,8 +2,6 @@
 
 This is Sheeta Liu from Tsinghua University.  
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/liuydd/count.svg) visitor, thank you!🎉🎉  
-
 - 🔭 I’m currently working on something interesting😉  
 - 🌱 I’m currently learning something about NLP  
 - 📫 How to reach me: liuyd21@gmail.com or liuyd21@mails.tsinghua.edu.cn  
@@ -28,4 +26,5 @@ Here are some ideas to get you started:
 
 ![](https://stats.justsong.cn/api/bilibili/?id=500346891&theme=light)  
 ![](https://activity-graph.herokuapp.com/graph?username=liuydd&theme=github)
+You are my ![Visitor Count](https://profile-counter.glitch.me/liuydd/count.svg) visitor, thank you!🎉🎉  
 -->
