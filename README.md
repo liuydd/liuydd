@@ -3,7 +3,7 @@
 This is Sheeta Liu from Tsinghua University.  
 
 - 🔭 I’m currently working on something interesting😉  
-- 🌱 I’m currently learning something about NLP  
+- 🌱 I’m currently learning something about NLP and HCI  
 - 📫 How to reach me: liuyd21@gmail.com or liuyd21@mails.tsinghua.edu.cn  
 - ⚡ Learn more about me: [Sheeta Liu's Paradise Regained](https://liuydd.github.io/)  
 
