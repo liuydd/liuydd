@@ -8,9 +8,10 @@ This is Sheeta Liu from Tsinghua University.
 - ⚡ Learn more about me: [Sheeta Liu's Paradise Regained](https://liuydd.github.io/)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuydd&layout=compact&theme=light)  
+<!--
 ![liuydd's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuydd&show_icons=true&theme=light)  
 
-<!--
+
 **liuydd/liuydd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
