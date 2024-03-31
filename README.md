@@ -2,12 +2,13 @@
 
 This is Sheeta Liu from Tsinghua University.  
 
-- 🔭 I’m currently working on something interesting😉  
-- 🌱 I’m currently learning something about NLP and HCI  
+- 🔭 I’m currently working on something interesting😉    
 - 📫 How to reach me: liuyd21@gmail.com or liuyd21@mails.tsinghua.edu.cn  
-- ⚡ Learn more about me: [Sheeta Liu's Paradise Regained](https://liuydd.github.io/)  
+- ⚡ Learn more about me: [Sheeta Liu's Paradise Regained](https://liuydd.github.io/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuydd&layout=compact&theme=light)  
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuydd&layout=compact&theme=light) 
+-->
 <!--
 ![liuydd's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuydd&show_icons=true&theme=light)  
 
